@@ -1,0 +1,4 @@
+Server/db.sqlite3
+Server/db.sqlite3
+*.pyc
+Server/media/
