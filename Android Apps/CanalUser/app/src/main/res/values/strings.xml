@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SIH User App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_report">Report</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="enter_your_query">Please select the images and videos</string>
+    <string name="please_describe_your_issue">Please Describe your issue</string>
+    <string name="base_url">http://10.121.13.157:8080/</string>
+    <string name="faq_data">A blockchain is a growing list of records, called blocks, which are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data</string>
+    <string name="faq_why">Simple. Freedom.   With the adoption of blockchain technology, people around the globe can be free from the constant dependence on banks and other middlemen, and also not be at the mercy of businesses who collect and hold on to their sensitive information. Instead of submitting to companies who are careless with their information, consumers can turn to decentralized options</string>
+    <string name="faq_crypto">We trust banks with our Money. What if everyone could take countrol and still be a trustable society. A cryptocurrency (or crypto currency) is a digital asset designed to work as a medium of exchange that uses strong cryptography to secure financial transactions, control the creation of additional units, and verify the transfer of assets.</string>
+    <string name="faq_blk">Blockchain is not just the technology behind Bitcoin. Blockchain is a paradigm shift in the way the world will think of and use technology. Blockchain technology offers a massive shift from the current transaction and record-keeping mechanisms and can be thought of as a foundation for disruptive digital businesses, for both startups and established enterprises.</string>
+    <string name="faq_bl">The decentralized nature of blockchain technology means that it doesn’t rely on a central point of control. A lack of a single authority makes the system fairer and considerably more secure. The way in which data is recorded onto a blockchain epitomizes its most revolutionary quality: its value of decentralization. Rather than relying on a central authority to securely transact with other users, blockchain utilizes innovative consensus protocols across a network of nodes, to validate transactions and record data in a manner that is incorruptible. As a blockchain is a ledger of information it is extremely important that the information being stored is honest and accurate.</string>
+    <string name="faq_b">As long as it is distributed, no. But you can start your own if you want to learn about the miracles this tech brings</string>
+    <string name="faq_p">Any place which stores data can be use a blockchain for its implementation. This includes questionaires, money transaction, hospital check-in, etc</string>
+    <string name="faq">We all have finite resources, including money and time. We try to minimise our losses and in doing so we also try to avoid single point of failures. When we use a blockchain for transaction exchange, we create a source of info that is trustable, secure and most importantly, transparent</string>
+    <string name="faq_fss">No. Every bloacjchain maps a plblic key to a private key. Only the public key is exposed and it creates a secure way of performing transactions. Every transaction is highly encrypted and there is next to no chance that your identity will be made known online</string>
+    <string name="title_activity_contact">Contact Us</string>
+</resources>

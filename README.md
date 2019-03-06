@@ -1,12 +1,3 @@
-# SIH Application
-This application is designed under the supervision of Ministry of Water Resources in the period of Smart India Hackathon - 2019.
-
-##Team 
-Squirtle Squad
-
-###Team Leader
-Saurabh Singh
-
 This application uses techstacks:
 * `Android` and `Django REST server`
 * `Blockchain` for immutability and transparency of the procedure. Blockchain is made using the database `BigChainDB`.
@@ -17,7 +8,6 @@ This application uses techstacks:
 *  Instant and single click `mail service`
 *  Message notification
 * `Multiple images` and `video query`
-*
 
 
 The application includes:
